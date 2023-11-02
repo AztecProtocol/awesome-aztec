@@ -67,6 +67,7 @@ A curated list of resources for learning and programming in Noir.
 ### Boilerplates
 
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/boxes) - A collection of boilerplates for building with Aztec
+  - Requires `@aztec/cli`, run `aztec-cli unbox [blank | blank-react | token] <new_project_folder_name>`
   - Getting started [doc](https://docs.aztec.network/dev_docs/getting_started/blank_box)
 - [Vite Starter](https://github.com/puzzlehq/aztec-sandbox-vite-starter)
 
