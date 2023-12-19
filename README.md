@@ -95,6 +95,7 @@ A curated list of resources for learning and programming in Noir.
 - [Authentication Witness](https://docs.aztec.network/dev_docs/contracts/resources/common_patterns/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
 - [Calling public function from private functions](https://docs.aztec.network/dev_docs/contracts/syntax/functions#private---public) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
+- The list is growing quickly, see [this page of the docs](https://docs.aztec.network/dev_docs/contracts/resources/common_patterns/main) for the latest, most complete list.
 
 ### Projects
 
