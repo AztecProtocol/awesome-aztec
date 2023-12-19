@@ -96,6 +96,10 @@ A curated list of resources for learning and programming in Noir.
 - [Calling public function from private functions](https://docs.aztec.network/dev_docs/contracts/syntax/functions#private---public) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
 
+### Projects
+
+- [Aztec AMM](https://github.com/olehmisar/aztec-amm)
+
 ## Reference
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/apis/pxe/interfaces/PXE)
