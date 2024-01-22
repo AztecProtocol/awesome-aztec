@@ -65,9 +65,9 @@ A curated list of resources for learning and programming in Noir.
 ### Boilerplates
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
--  [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/boxes) - A collection of boilerplates for building with Aztec
-  - Requires [`@aztec/cli`](https://www.npmjs.com/package/@aztec/cli), run `aztec-cli unbox [blank | blank-react | token] <new_project_folder_name>`
-  - Getting started [doc](https://docs.aztec.network/dev_docs/getting_started/blank_box)
+- [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
+  - [Install the sandbox](https://docs.aztec.network/dev_docs/getting_started/quickstart#install-the-sandbox)
+  - run `aztec-cli unbox [box_name] [new_project_name]`
 - [Vite Starter](https://github.com/puzzlehq/aztec-sandbox-vite-starter)
 
 ### Libraries
