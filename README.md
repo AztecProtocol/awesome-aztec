@@ -104,8 +104,8 @@ A curated list of resources for learning and programming in Noir.
 - [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Heads up poker (WIP)](https://github.com/zobront/aztec-poker/)
-- [AztecSnap(Metamask Snap for Aztec)](https://github.com/porco-rosso-j/aztec-snap)
-- [Numer0n(A Japanese number-guessing game)](https://github.com/porco-rosso-j/aztec-numer0n)
+- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) - Metamask Snap for Aztec
+- [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) - A Japanese number-guessing game
 
 ## Reference
 
