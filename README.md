@@ -106,6 +106,7 @@ A curated list of resources for learning and programming in Noir.
 - [Heads up poker (WIP)](https://github.com/zobront/aztec-poker/)
 - [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) - Metamask Snap for Aztec
 - [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) - A Japanese number-guessing game
+- [NoteStream](https://github.com/TomAFrench/NoteStream) - Private money streaming on Ethereum using AZTEC Protocol
 
 ## Reference
 
