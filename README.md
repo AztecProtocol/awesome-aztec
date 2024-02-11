@@ -49,30 +49,30 @@ A curated list of resources for learning and programming in Noir.
 
 ### Tutorials
 
-- [Sandbox quickstart](https://docs.aztec.network/dev_docs/getting_started/quickstart)
-- [Writing a Token Contract](https://docs.aztec.network/dev_docs/tutorials/writing_token_contract)
-- [Writing a Token Bridge](https://docs.aztec.network/dev_docs/tutorials/token_portal/main)
-- [Aztec Connect-style Uniswap](https://docs.aztec.network/dev_docs/tutorials/uniswap/main)
+- [Sandbox quickstart](https://docs.aztec.network/developers/getting_started/quickstart)
+- [Writing a Token Contract](https://docs.aztec.network/developers/tutorials/writing_token_contract)
+- [Writing a Token Bridge](https://docs.aztec.network/developers/tutorials/token_portal/main)
+- [Aztec Connect-style Uniswap](https://docs.aztec.network/developers/tutorials/uniswap/main)
 
 ## Coding
 
 ### Dev Tools
 
-- [Aztec version of the Noir programming language](https://docs.aztec.network/dev_docs/contracts/main) - for writing smart contracts on Aztec
+- [Aztec version of the Noir programming language](https://docs.aztec.network/developers/contracts/main) - for writing smart contracts on Aztec
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
-- [Aztec CLI](https://docs.aztec.network/dev_docs/cli/main)
+- [Aztec CLI](https://docs.aztec.network/developers/sandbox/main)
 
 ### Boilerplates
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
-  - [Install the sandbox](https://docs.aztec.network/dev_docs/getting_started/quickstart#install-the-sandbox)
+  - [Install the sandbox](https://docs.aztec.network/developers/getting_started/quickstart#install-the-sandbox)
   - run `aztec-cli unbox [box_name] [new_project_name]`
 - [Vite Starter](https://github.com/puzzlehq/aztec-sandbox-vite-starter)
 
 ### Libraries
 
-- [Aztec.nr docs](https://docs.aztec.network/dev_docs/contracts/main) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/aztec-nr)
+- [Aztec.nr docs](https://docs.aztec.network/developers/contracts/main) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/aztec-nr)
   - Includes:
     - `aztec` (core) - the core of the framework
     - `easy-private-state` - for easily creating private state
@@ -82,19 +82,19 @@ A curated list of resources for learning and programming in Noir.
 
 ### Contract development
 
-- [Contract storage](https://docs.aztec.network/dev_docs/contracts/syntax/storage)
-- [Functions](https://docs.aztec.network/dev_docs/contracts/syntax/functions)
-- [Private / public context](https://docs.aztec.network/dev_docs/contracts/syntax/context)
-- [Compiling contracts](https://docs.aztec.network/dev_docs/contracts/compiling)
-- [Deploying contracts](https://docs.aztec.network/dev_docs/contracts/deploying)
-- [Portal contracts](https://docs.aztec.network/dev_docs/contracts/portals/main) - portal contracts enable L1<>L2 communication
+- [Contract storage](https://docs.aztec.network/developers/contracts/writing_contracts/storage/main)
+- [Functions](https://docs.aztec.network/developers/contracts/writing_contracts/functions/main)
+- [Private / public context](https://docs.aztec.network/developers/contracts/writing_contracts/functions/context)
+- [Compiling contracts](https://docs.aztec.network/developers/contracts/compiling_contracts/how_to_compile_contract)
+- [Deploying contracts](https://docs.aztec.network/developers/contracts/deploying_contracts/how_to_deploy_contract)
+- [Portal contracts](https://docs.aztec.network/developers/contracts/writing_contracts/portals) - portal contracts enable L1<>L2 communication
 
 ### Common Patterns
 
-- [Authentication Witness](https://docs.aztec.network/dev_docs/contracts/resources/common_patterns/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
-- [Calling public function from private functions](https://docs.aztec.network/dev_docs/contracts/syntax/functions#private---public) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
+- [Authentication Witness](https://docs.aztec.network/developers/contracts/resources/common_patterns/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
+- [Calling public function from private functions](https://docs.aztec.network/learn/concepts/communication/public_private_calls/main) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
-- The list is growing quickly, see [this page of the docs](https://docs.aztec.network/dev_docs/contracts/resources/common_patterns/main) for the latest, most complete list.
+- The list is growing quickly, see [this page of the docs](https://docs.aztec.network/developers/contracts/resources/common_patterns/main) for the latest, most complete list.
 
 ### Projects
 
@@ -110,4 +110,4 @@ A curated list of resources for learning and programming in Noir.
 ## Reference
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/apis/pxe/interfaces/PXE)
-- [Current Limitations](https://docs.aztec.network/dev_docs/limitations/main)
+- [Current Limitations](https://docs.aztec.network/developers/limitations/main)
