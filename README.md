@@ -72,7 +72,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
-- [Aztec.nr docs](https://docs.aztec.network/developers/contracts/main) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/aztec-nr)
+- [Aztec.nr docs](https://docs.aztec.network/developers/contracts/main) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr)
   - Includes:
     - `aztec` (core) - the core of the framework
     - `easy-private-state` - for easily creating private state
