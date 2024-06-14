@@ -49,30 +49,28 @@ A curated list of resources for learning and programming in Noir.
 
 ### Tutorials
 
-- [Sandbox quickstart](https://docs.aztec.network/developers/getting_started/quickstart)
-- [Writing a Token Contract](https://docs.aztec.network/developers/tutorials/writing_token_contract)
-- [Writing a Token Bridge](https://docs.aztec.network/developers/tutorials/token_portal/main)
-- [Aztec Connect-style Uniswap](https://docs.aztec.network/developers/tutorials/uniswap/main)
+- [Sandbox quickstart](https://docs.aztec.network/getting_started)
+- [Writing a Token Contract](https://docs.aztec.network/tutorials/contract_tutorials/token_contract)
+- [Writing a Token Bridge](https://docs.aztec.network/tutorials/contract_tutorials/advanced/token_bridge)
 
 ## Coding
 
 ### Dev Tools
 
-- [Aztec version of the Noir programming language](https://docs.aztec.network/developers/contracts/main) - for writing smart contracts on Aztec
+- [Aztec version of the Noir programming language](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) - for writing smart contracts on Aztec
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
-- [Aztec CLI](https://docs.aztec.network/developers/sandbox/main)
 
 ### Boilerplates
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
-  - [Install the sandbox](https://docs.aztec.network/developers/getting_started/quickstart#install-the-sandbox)
+  - [Install the sandbox](https://docs.aztec.network/reference/sandbox_reference/sandbox-reference)
   - run `aztec-cli unbox [box_name] [new_project_name]`
 - [Vite Starter](https://github.com/puzzlehq/aztec-sandbox-vite-starter)
 
 ### Libraries
 
-- [Aztec.nr docs](https://docs.aztec.network/developers/contracts/main) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr)
+- [Aztec.nr docs](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr)
   - Includes:
     - `aztec` (core) - the core of the framework
     - `easy-private-state` - for easily creating private state
@@ -82,12 +80,12 @@ A curated list of resources for learning and programming in Noir.
 
 ### Contract development
 
-- [Contract storage](https://docs.aztec.network/developers/contracts/writing_contracts/storage/main)
-- [Functions](https://docs.aztec.network/developers/contracts/writing_contracts/functions/main)
-- [Private / public context](https://docs.aztec.network/developers/contracts/writing_contracts/functions/context)
-- [Compiling contracts](https://docs.aztec.network/developers/contracts/compiling_contracts/how_to_compile_contract)
-- [Deploying contracts](https://docs.aztec.network/developers/contracts/deploying_contracts/how_to_deploy_contract)
-- [Portal contracts](https://docs.aztec.network/developers/contracts/writing_contracts/portals) - portal contracts enable L1<>L2 communication
+- [Contract storage](https://docs.aztec.network/reference/smart_contract_reference/storage/private_state)
+- [Functions](https://docs.aztec.network/aztec/concepts/smart_contracts/functions/context)
+- [Private / public context](https://docs.aztec.network/aztec/concepts/smart_contracts/functions/public_private_unconstrained)
+- [Compiling contracts](https://docs.aztec.network/guides/smart_contracts/how_to_compile_contract)
+- [Deploying contracts](https://docs.aztec.network/guides/smart_contracts/how_to_deploy_contract)
+- [Portal contracts](https://docs.aztec.network/protocol-specs/l1-smart-contracts) - portal contracts enable L1<>L2 communication
 
 ### Common Patterns
 
@@ -116,5 +114,5 @@ A curated list of resources for learning and programming in Noir.
 
 ## Reference
 
-- [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/apis/pxe/interfaces/PXE)
-- [Current Limitations](https://docs.aztec.network/developers/limitations/main)
+- [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/reference/aztecjs/pxe)
+- [Current Limitations](https://docs.aztec.network/aztec/limitations)
