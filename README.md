@@ -80,19 +80,18 @@ A curated list of resources for learning and programming in Noir.
 
 ### Contract development
 
-- [Contract storage](https://docs.aztec.network/reference/smart_contract_reference/storage/private_state)
-- [Functions](https://docs.aztec.network/aztec/concepts/smart_contracts/functions/context)
-- [Private / public context](https://docs.aztec.network/aztec/concepts/smart_contracts/functions/public_private_unconstrained)
-- [Compiling contracts](https://docs.aztec.network/guides/smart_contracts/how_to_compile_contract)
-- [Deploying contracts](https://docs.aztec.network/guides/smart_contracts/how_to_deploy_contract)
+- [Contract state](https://docs.aztec.network/reference/developer_references/smart_contract_reference/storage/private_state)
+- [Functions](https://docs.aztec.network/aztec/smart_contracts/functions)
+- [Compiling contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_compile_contract)
+- [Deploying contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_deploy_contract)
 - [Portal contracts](https://docs.aztec.network/protocol-specs/l1-smart-contracts) - portal contracts enable L1<>L2 communication
 
 ### Common Patterns
 
-- [Authentication Witness](https://docs.aztec.network/developers/contracts/resources/common_patterns/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
-- [Calling public function from private functions](https://docs.aztec.network/learn/concepts/communication/public_private_calls/main) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
+- [Authentication Witness](https://docs.aztec.network/guides/developer_guides/smart_contracts/writing_contracts/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
+- [Calling public function from private functions](https://docs.aztec.network/guides/developer_guides/smart_contracts/writing_contracts/common_patterns#writing-public-storage-from-private) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
-- The list is growing quickly, see [this page of the docs](https://docs.aztec.network/developers/contracts/resources/common_patterns/main) for the latest, most complete list.
+- The list is growing quickly, see [this page of the docs](https://docs.aztec.network/guides/developer_guides/smart_contracts/writing_contracts/common_patterns) for the latest, most complete list.
 - [Defi Wonderland's Aztec Patterns](https://github.com/defi-wonderland/aztec-patterns/tree/dev). Includes patterns for:
   - Shared Nullifier Key
   - Note Sharing
@@ -114,5 +113,5 @@ A curated list of resources for learning and programming in Noir.
 
 ## Reference
 
-- [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/reference/aztecjs/pxe)
-- [Current Limitations](https://docs.aztec.network/aztec/limitations)
+- [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/reference/developer_references/aztecjs/pxe/interfaces/PXE)
+- [Current Limitations](https://docs.aztec.network/reference/developer_references/limitations)
