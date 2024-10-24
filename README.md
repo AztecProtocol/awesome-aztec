@@ -59,6 +59,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Aztec version of the Noir programming language](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) - for writing smart contracts on Aztec
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
+- [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
 
 ### Boilerplates
 
