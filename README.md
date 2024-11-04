@@ -20,6 +20,7 @@ A curated list of resources for learning and programming in Noir.
     - [Libraries](#libraries)
     - [Contract development](#contract-development)
     - [Common Patterns](#common-patterns)
+    - [Projects](#projects)
   - [Reference](#reference)
 
 ## Official Resources
