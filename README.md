@@ -103,6 +103,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Projects
 
+- [Shieldswap](https://app.shieldswap.org/) - swap tokens with privacy
 - [Aztec Private Oracle](https://github.com/defi-wonderland/aztec-private-oracle) - private oracle contracts with a [frontend](https://github.com/defi-wonderland/aztec-private-oracle-app)
 - [Interface to the example token contract](https://github.com/defi-wonderland/aztec-token)
 - [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
