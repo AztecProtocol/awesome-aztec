@@ -86,7 +86,7 @@ A curated list of resources for learning and programming in Noir.
 - [Functions](https://docs.aztec.network/aztec/smart_contracts/functions)
 - [Compiling contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_compile_contract)
 - [Deploying contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_deploy_contract)
-- [Portal contracts](https://docs.aztec.network/protocol-specs/l1-smart-contracts) - portal contracts enable L1<>L2 communication
+- [Portal contracts](https://docs.aztec.network/aztec/concepts/communication/portals) - portal contracts enable L1<>L2 communication
 
 ### Common Patterns
 
