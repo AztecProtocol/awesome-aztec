@@ -3,7 +3,7 @@
 A curated list of resources for learning and programming in Noir.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Aztec.svg?style=social&label=Follow%20%40Aztec)](https://twitter.com/aztecnetwork)
+[![Twitter](https://img.shields.io/twitter/follow/Aztec)](https://x.com/aztecnetwork)
 
 ## Contents
 
