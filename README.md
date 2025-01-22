@@ -5,23 +5,6 @@ A curated list of resources for learning and programming in Noir.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Aztec.svg?style=social&label=Follow%20%40Aztec)](https://twitter.com/aztecnetwork)
 
-## Contents
-
-- [Awesome Aztec](#awesome-aztec)
-  - [Contents](#contents)
-  - [Official Resources](#official-resources)
-  - [Learning](#learning)
-    - [Talks and workshops](#talks-and-workshops)
-    - [Blog Posts and Articles](#blog-posts-and-articles)
-    - [Tutorials](#tutorials)
-  - [Coding](#coding)
-    - [Dev Tools](#dev-tools)
-    - [Boilerplates](#boilerplates)
-    - [Libraries](#libraries)
-    - [Contract development](#contract-development)
-    - [Common Patterns](#common-patterns)
-  - [Reference](#reference)
-
 ## Official Resources
 
 - [Website](https://aztec.network/)
@@ -61,6 +44,7 @@ A curated list of resources for learning and programming in Noir.
 - [Aztec version of the Noir programming language](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) - for writing smart contracts on Aztec
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
+- [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
 
 ### Boilerplates
 
