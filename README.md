@@ -66,10 +66,10 @@ A curated list of resources for learning and programming in Noir.
 
 ### Contract development
 
-- [Contract state](https://docs.aztec.network/reference/developer_references/smart_contract_reference/storage/private_state)
+- [Contract state](https://docs.aztec.network/developers/reference/smart_contract_reference/storage/private_state)
 - [Functions](https://docs.aztec.network/aztec/smart_contracts/functions)
-- [Compiling contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_compile_contract)
-- [Deploying contracts](https://docs.aztec.network/guides/developer_guides/smart_contracts/how_to_deploy_contract)
+- [Compiling contracts](https://docs.aztec.network/developers/guides/smart_contracts/how_to_compile_contract)
+- [Deploying contracts](https://docs.aztec.network/developers/guides/smart_contracts/how_to_deploy_contract)
 - [Portal contracts](https://docs.aztec.network/aztec/concepts/communication/portals) - portal contracts enable L1<>L2 communication
 
 ### Common Patterns
