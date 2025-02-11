@@ -75,7 +75,7 @@ A curated list of resources for learning and programming in Noir.
 ### Common Patterns
 
 - [Authentication Witness](https://docs.aztec.network/guides/developer_guides/smart_contracts/writing_contracts/authwit) - authentication witnesses are like token approvals on Ethereum, but are much more flexible and powerful.
-- [Calling public function from private functions](https://docs.aztec.network/developers/guides/smart_contracts/writing_contracts/common_patterns#writing-public-storage-from-private)) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
+- [Calling public function from private functions](https://docs.aztec.network/developers/guides/smart_contracts/writing_contracts/common_patterns#writing-public-storage-from-private) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
 - The list is growing quickly, see [this page of the docs](https://docs.aztec.network/guides/developer_guides/smart_contracts/writing_contracts/common_patterns) for the latest, most complete list.
 - [Defi Wonderland's Aztec Patterns](https://github.com/defi-wonderland/aztec-patterns/tree/dev). Includes patterns for:
