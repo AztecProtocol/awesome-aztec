@@ -33,7 +33,7 @@ A curated list of resources for learning and programming in Noir.
 ### Tutorials
 
 - [Sandbox quickstart](https://docs.aztec.network/getting_started)
-- [Writing a Token Contract](https://docs.aztec.network/tutorials/contract_tutorials/token_contract)
+- [Writing a NFT Contract](https://docs.aztec.network/developers/tutorials/codealong/contract_tutorials/nft_contract)
 - [Writing a Token Bridge](https://docs.aztec.network/developers/tutorials/codealong/contract_tutorials/token_bridge)
 - [Aztec Contracts 0–100](https://medium.com/@niallinio/aztec-contracts-0-100-905fe41bf998)
 
