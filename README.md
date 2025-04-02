@@ -48,6 +48,7 @@ A curated list of resources for learning and programming in Noir.
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
 - [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
+- [Remix IDE Plugin for Aztec](https://github.com/hsy822/aztec-remix-plugin) - a plugin for Remix IDE to compile, deploy, and interact with Aztec smart contracts.
 
 ### Boilerplates
 
