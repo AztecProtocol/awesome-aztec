@@ -67,7 +67,7 @@ A curated list of resources for learning and programming in Noir.
     - `easy-private-state` - for easily creating private state
     - `safe-math` - for safe arithmetic
     - `value-note` - for storing arbitrary values
-- [Noir libraries](https://github.com/noir-lang/awesome-noir/blob/main/README.md#libraries) - Noir libraries can be used in Aztec contracts
+- [Noir libraries](https://github.com/noir-lang/awesome-noir/blob/main/README.md#libraries) - can be used in Aztec contracts
 
 ### Contract development
 
