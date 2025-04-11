@@ -40,6 +40,7 @@ A curated list of resources for learning and programming in Noir.
 - [Aztec Contracts 0–100](https://medium.com/@niallinio/aztec-contracts-0-100-905fe41bf998)
 - [Learn Aztec](https://github.com/taurushq-io/private-CMTAT-aztec/blob/master/LEARN-AZTEC.md) by Taurus
 - [How to use Aztec Packages and Aztec Docs](https://gist.github.com/rajeshb62/60a7018d97124b5644d84c4f3ea5cc18)
+- [Play the Glass Bridge Game (ZK Tutorial)](https://zkdev.net/docs/tutorial/glass-bridge)
 
 ## Coding
 
