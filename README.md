@@ -95,13 +95,9 @@ A curated list of resources for learning and programming in Noir.
 ### Projects
 
 - [Shieldswap](https://app.shieldswap.org/) - swap tokens with privacy
-- [Aztec Private Oracle](https://github.com/defi-wonderland/aztec-private-oracle) - private oracle contracts with a [frontend](https://github.com/defi-wonderland/aztec-private-oracle-app)
 - [Interface to the example token contract](https://github.com/defi-wonderland/aztec-token)
 - [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
-- [Heads up poker (WIP)](https://github.com/zobront/aztec-poker/)
-- [AztecSnap](https://github.com/porco-rosso-j/aztec-snap) - Metamask Snap for Aztec
-- [Numer0n](https://github.com/porco-rosso-j/aztec-numer0n) - A Japanese number-guessing game
 - [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
 
 ## Reference
