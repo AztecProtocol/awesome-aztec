@@ -69,6 +69,7 @@ A curated list of resources for learning and programming in Noir.
     - `safe-math` - for safe arithmetic
     - `value-note` - for storing arbitrary values
 - [Noir libraries](https://github.com/noir-lang/awesome-noir/blob/main/README.md#libraries) - can be used in Aztec contracts
+- [Aztec Storage proofs](https://github.com/nemi-fi/aztec_storage_proofs) - Prove Aztec note inclusion in plain Noir. Generate verifiable proofs for verification in JS or Solidity.
 
 ### Contract development
 
