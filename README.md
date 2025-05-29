@@ -56,6 +56,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec web starter](https://github.com/AztecProtocol/aztec-web-starter) - an example web app that demonstrates how to interact with an Aztec contract using the Aztec JS SDK
+- [Next.js Starter](https://github.com/raven-house/aztec-nextjs-starter) - Next.js starter template with Aztec Network integration
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
   - [Install the sandbox](https://docs.aztec.network/reference/sandbox_reference/sandbox-reference)
   - run `aztec-cli unbox [box_name] [new_project_name]`
