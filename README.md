@@ -5,7 +5,7 @@ A curated list of resources for learning and programming in Noir.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aztecnetwork.svg?style=social&label=Follow%20%40aztecnetwork)](https://twitter.com/aztecnetwork)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/aztec)
-[![Telegram](https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FAztecProtocol)](https://t.me/AztecAnnouncements_Official)
+[![Telegram](https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FAztecAnnouncements_Official)](https://t.me/AztecAnnouncements_Official)
 
 ## Official Resources
 
