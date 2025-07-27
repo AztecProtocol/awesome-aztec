@@ -14,7 +14,7 @@ A curated list of resources for learning and programming in Noir.
 - [Forum](https://discourse.aztec.network/)
 - [Github](https://github.com/AztecProtocol)
 - [Awesome Noir](https://github.com/noir-lang/awesome-noir/tree/main#benchmarks)
-- [Medium](https://medium.com/@aztecprotocol)
+- [Blog](https://aztec.network/blog)
 
 ## Learning
 
