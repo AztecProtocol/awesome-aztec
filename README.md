@@ -28,6 +28,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Blog Posts and Articles
 
+- [WTF is Aztec?](https://aztec.network/blog/wtf-is-aztec)
 - [Aztec Sandbox: The Endgame for Smart Contract Privacy](https://aztec.network/blog/announcing-aztec-sandbox-the-endgame-for-smart-contract-privacy/)
 - [Aztec’s Transaction Anatomy](https://aztec.network/blog/aztecs-transaction-anatomy/)
 - [Privacy Abstraction with Aztec](https://aztec.network/blog/privacy-abstraction-with-aztec/)
