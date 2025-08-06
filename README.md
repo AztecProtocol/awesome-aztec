@@ -38,7 +38,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Sandbox quickstart](https://docs.aztec.network/getting_started)
 - [Writing a NFT Contract](https://docs.aztec.network/developers/tutorials/codealong/contract_tutorials/nft_contract)
-- [Writing a Token Bridge](https://docs.aztec.network/developers/tutorials/codealong/contract_tutorials/token_bridge)
 - [Aztec Contracts 0–100](https://medium.com/@niallinio/aztec-contracts-0-100-905fe41bf998)
 - [Learn Aztec](https://github.com/taurushq-io/private-CMTAT-aztec/blob/master/LEARN-AZTEC.md) by Taurus
 - [How to use Aztec Packages and Aztec Docs](https://gist.github.com/rajeshb62/60a7018d97124b5644d84c4f3ea5cc18)
