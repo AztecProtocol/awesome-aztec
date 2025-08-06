@@ -32,7 +32,6 @@ A curated list of resources for learning and programming in Noir.
 - [Aztec Sandbox: The Endgame for Smart Contract Privacy](https://aztec.network/blog/announcing-aztec-sandbox-the-endgame-for-smart-contract-privacy/)
 - [Aztec’s Transaction Anatomy](https://aztec.network/blog/aztecs-transaction-anatomy/)
 - [Privacy Abstraction with Aztec](https://aztec.network/blog/privacy-abstraction-with-aztec/)
-- [Announcing Fernet: Aztec’s Decentralized Sequencer Selection Protocol](https://medium.com/aztec-protocol/announcing-fernet-aztecs-decentralized-sequencer-selection-protocol-dd06194d572f)
 
 ### Tutorials
 
