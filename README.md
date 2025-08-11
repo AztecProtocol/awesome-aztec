@@ -100,3 +100,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
 - [Current Limitations](https://docs.aztec.network/developers/reference/considerations/limitations)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/varvaraklimova102/awesome-aztec/blob/main/LICENSE) file for details.
