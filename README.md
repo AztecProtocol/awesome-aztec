@@ -60,6 +60,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Next.js Starter](https://github.com/raven-house/aztec-nextjs-starter) - Next.js starter template with Aztec Network integration
 - [Defi Wonderland's Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) - similar to Aztec starter, but includes benchmarking on PRs
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
+- [ShadowSplit](https://github.com/Umarb97/ShadowSplit) — Noir contract for splitting private payments  with secure withdrawals
+
   - [Install the sandbox](https://docs.aztec.network/reference/sandbox_reference/sandbox-reference)
   - run `aztec-cli unbox [box_name] [new_project_name]`
 
