@@ -44,7 +44,7 @@ Overview: Optimized PLONK SNARK prover for bn128 curve—powers Aztec's succinct
 #### Key Files
 - [`barretenberg/README.md`](https://github.com/AztecProtocol/barretenberg/blob/main/README.md): Setup, benchmarks (e.g., sha256 proof in 388ms on 64 threads).
 - [`barretenberg/cpp/src/barretenberg/bb/main.cpp`](https://github.com/AztecProtocol/barretenberg/blob/main/cpp/src/barretenberg/bb/main.cpp): BB commands for prove/verify.
-- Mirror note: Active dev in [`aztec-packages/barretenberg`](https://github.com/AztecProtocol/aztec-packages/tree/main/barretenberg).
+- Mirro Active dev in [`aztec-packages/barretenberg`](https://github.com/AztecProtocol/aztec-packages/barretenberg).
 
 #### Learning Path
 1. Read README for install (`./cpp/bootstrap.sh` on Ubuntu/Mac).
@@ -58,7 +58,7 @@ Overview: Optimized PLONK SNARK prover for bn128 curve—powers Aztec's succinct
 Overview: Extends Noir DSL for Aztec—write zk-provable contracts with private state (notes) and public views.
 
 #### Key Files
-- [`aztec-nr/README.md`](https://github.com/AztecProtocol/aztec-nr/blob/main/README.md): Framework guide, state management (e.g., `@private` annotations).
+- [`aztec-nr/README.md`](https://github.com/AztecProtocol/aztec-nr): Framework guide, state management (e.g., `@private` annotations).
 - Mirror: [`aztec-packages/noir-projects/aztec-nr`](https://github.com/AztecProtocol/aztec-packages/tree/main/noir-projects/aztec-nr)—stdlib like `uint-note.nr`.
 - [`aztec-nr/src/main.nr`](https://github.com/AztecProtocol/aztec-nr/blob/main/src/main.nr): Basic contract template.
 
