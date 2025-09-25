@@ -1,4 +1,4 @@
-# Supporting Guide to Aztec Protocol GitHub Organization
+# Supporting Guide to Aztec Protocol
 
 Welcome to this supporting guide for the [AztecProtocol GitHub organization](https://github.com/orgs/AztecProtocol/repositories?type=all). Aztec Protocol is a privacy-centric Layer 2 scaling solution for Ethereum, leveraging zero-knowledge proofs (zk-SNARKs) and the domain-specific language Noir to enable confidential smart contracts and transactions. This allows developers to build private DeFi, payments, and apps without revealing sensitive data on-chain.
 
@@ -133,4 +133,7 @@ Deepen with workshops, audits, and designs.
 - **Search Tip**: GitHub org search for "tutorial" across files (e.g., in dev-rel).
 - **External Complements**: Repos link to [docs.aztec.network](https://docs.aztec.network/) for built guides (e.g., Noir stdlib).
 
-This guide sequences progressively: concepts → tools → apps → community. Revisit for a private dApp. For updates, check [roadmap](https://aztec.network/roadmap). Happy zk-building!
+This guide sequences progressively: concepts → tools → apps → community. Revisit for a private dApp. For updates, check [roadmap](https://aztec.network/roadmap). 
+
+
+Happy zk-building!
