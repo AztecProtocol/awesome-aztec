@@ -116,7 +116,7 @@ Deepen with workshops, audits, and designs.
 
 ### Key Repos/Files
 - [`dev-rel/README.md`](https://github.com/AztecProtocol/dev-rel/blob/main/README.md): Workshops/tutorials (e.g., private voting codealong).
-- [`audit-reports/README.md`](https://github.com/AztecProtocol/audit-reports/blob/main/README.md): Security audits.
+- [`audit-reports/README.md`](https://github.com/AztecProtocol/audit-reports): Security audits.
 - [`engineering-designs/README.md`](https://github.com/AztecProtocol/engineering-designs/blob/main/README.md): Internal designs (Jupyter for zk math).
 - From awesome: [Common Patterns](https://docs.aztec.network/developers/guides/smart_contracts/writing_contracts/common_patterns)—public storage from private.
 
