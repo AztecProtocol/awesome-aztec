@@ -59,8 +59,8 @@ Overview: Extends Noir DSL for Aztec—write zk-provable contracts with private 
 
 #### Key Files
 - [`aztec-nr/README.md`](https://github.com/AztecProtocol/aztec-nr): Framework guide, state management (e.g., `@private` annotations).
-- Mirror: [`aztec-packages/noir-projects/aztec-nr`](https://github.com/AztecProtocol/aztec-packages/tree/main/noir-projects/aztec-nr)—stdlib like `uint-note.nr`.
-- [`aztec-nr/src/main.nr`](https://github.com/AztecProtocol/aztec-nr/blob/main/src/main.nr): Basic contract template.
+- Mirror: [`aztec-packages/noir-projects/aztec-nr`](https://github.com/AztecProtocol/aztec-packages/noir-projects/aztec-nr)—stdlib like `uint-note.nr`.
+- [`aztec-nr/src/main.nr`](https://github.com/AztecProtocol/aztec-nr/src/main.nr): Basic contract template.
 
 #### Learning Path
 1. Overview in README: Compare to vanilla Noir (ACIR for private funcs).
@@ -79,8 +79,8 @@ Apply libs to contracts and tests. Sequence: Starters first (simple), then examp
 Overview: Minimal template for Noir contract + TS tests—ideal for onboarding.
 
 #### Key Files
-- [`aztec-starter/README.md`](https://github.com/AztecProtocol/aztec-starter/blob/main/README.md): Getting started (Node 22+, `aztec start --sandbox`).
-- [`aztec-starter/src/main.nr`](https://github.com/AztecProtocol/aztec-starter/blob/main/src/main.nr): Easy Private Voting contract.
+- [`aztec-starter/README.md`](https://github.com/AztecProtocol/aztec-starter): Getting started (Node 22+, `aztec start --sandbox`).
+- [`aztec-starter/src/main.nr`](https://github.com/AztecProtocol/aztec-starter/src/main.nr): Easy Private Voting contract.
 - [`aztec-starter/src/test/e2e/index.test.ts`](https://github.com/AztecProtocol/aztec-starter/blob/main/src/test/e2e/index.test.ts): Integration tests (spawn sandbox).
 - [`aztec-starter/src/test/first.nr`](https://github.com/AztecProtocol/aztec-starter/blob/main/src/test/first.nr): TXE tests.
 - Scripts: [`aztec-starter/scripts/deploy_contract.ts`](https://github.com/AztecProtocol/aztec-starter/blob/main/scripts/deploy_contract.ts) for deployment.
@@ -99,7 +99,7 @@ Overview: Templates and projects for zk apps (e.g., private DeFi).
 
 #### Key Files
 - [`noir-starter/README.md`](https://github.com/AztecProtocol/noir-starter/blob/main/README.md): Public template for Noir projects.
-- [`aztec-examples/README.md`](https://github.com/AztecProtocol/aztec-examples/blob/main/README.md): Sample Aztec projects (Noir contracts).
+- [`aztec-examples/README.md`](https://github.com/AztecProtocol/aztec-examples): Sample Aztec projects (Noir contracts).
 - From awesome: [`defi-wonderland/aztec-standards`](https://github.com/defi-wonderland/aztec-standards) (external, but linked)—token standard.
 
 #### Learning Path
