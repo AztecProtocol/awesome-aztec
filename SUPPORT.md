@@ -125,7 +125,7 @@ Deepen with workshops, audits, and designs.
 ### Learning Path
 1. Tutorials in dev-rel: Follow [private voting](https://docs.aztec.network/developers/tutorials/codealong/contract_tutorials/private_voting_contract).
 2. Specs: Read AZIPs for upgrades.
-3. Community: Join [Discord](https://discord.aztec.network) for support.
+3. Community: Join [Discord](https://discord.gg/aztec) for support.
 
 **Tips**: Non-devs: Watch talks. Devs: Contribute audits or designs.
 
