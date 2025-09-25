@@ -24,14 +24,12 @@ Build intuition for Aztec's hybrid zk-rollup: Public execution for scalability, 
 ### Key Repos/Files
 - [`awesome-aztec/README.md`](https://github.com/AztecProtocol/awesome-aztec/blob/main/README.md): Curated hub with patterns (e.g., public-private state bridging).
 - [`protocol-specs-pdf/README.md`](https://github.com/AztecProtocol/protocol-specs-pdf/blob/main/README.md): Links to PDF specs (e.g., protocol overview).
-- [`aztec-packages/README.md`](https://github.com/AztecProtocol/aztec-packages/blob/main/README.md): Monorepo intro to zk/FHE stack.
-- [`AZIPs/README.md`](https://github.com/AztecProtocol/AZIPs/blob/main/README.md): Design docs for features (e.g., AZIP-1 on protocol upgrades).
+- [`aztec-packages/README.md`](https://github.com/AztecProtocol/aztec-packages): Monorepo intro to zk/FHE stack.
 
 ### Learning Path
 1. Scan [`awesome-aztec/README.md`](https://github.com/AztecProtocol/awesome-aztec/blob/main/README.md) for patterns like token standards—non-devs focus on "ERC-20 with privacy."
-2. Read [`aztec-packages/README.md`](https://github.com/AztecProtocol/aztec-packages/blob/main/README.md) for ecosystem map (e.g., Barretenberg for proving).
-3. Explore [`AZIPs`](https://github.com/AztecProtocol/AZIPs) for specs—skim AZIP-1 for protocol vision.
-4. View external: [Aztec Litepaper](https://docs.aztec.network/protocol/overview) (linked from repos) for diagrams.
+2. Read [`aztec-packages/README.md`](https://github.com/AztecProtocol/aztec-packages) for ecosystem map (e.g., Barretenberg for proving).
+3. View external: [Aztec Litepaper](https://docs.aztec.network/protocol/overview) (linked from repos) for diagrams.
 
 **Tips**: Visualize zk as "math magic" hiding data. Connect to Ethereum: How does it fix public tx leaks? Use for motivation.
 
