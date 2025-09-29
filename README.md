@@ -2,6 +2,8 @@
 
 A curated list of resources for learning and programming the Aztec blockchain.
 
+⚠️ This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aztecnetwork.svg?style=social&label=Follow%20%40aztecnetwork)](https://twitter.com/aztecnetwork)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.com/invite/aztec)
