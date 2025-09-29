@@ -100,3 +100,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
 - [Current Limitations](https://docs.aztec.network/developers/reference/considerations/limitations)
+
+## Community Contracts
+- [ShadowSplit](https://github.com/Umarb97/ShadowSplit) — Noir contract template for splitting private payments with secure withdrawals
