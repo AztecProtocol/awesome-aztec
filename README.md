@@ -42,6 +42,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Learn Aztec](https://github.com/taurushq-io/private-CMTAT-aztec/blob/master/LEARN-AZTEC.md) by Taurus
 - [How to use Aztec Packages and Aztec Docs](https://gist.github.com/rajeshb62/60a7018d97124b5644d84c4f3ea5cc18)
 - [Play the Glass Bridge Game (ZK Tutorial)](https://zkdev.net/docs/tutorial/glass-bridge)
+- [Aztec Personal AI Tutor](https://github.com/Atunde-SS/Aztec-AI.git)
 
 ## Coding
 
