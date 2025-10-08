@@ -99,6 +99,20 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
 
+## Network
+
+### Full Node RPC URLs
+
+#### Testnet
+
+### Snapshot URLs
+
+#### Testnet
+
+### Bootstrap ENRs
+
+#### Testnet
+
 ## Reference
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
