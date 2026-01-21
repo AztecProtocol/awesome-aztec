@@ -58,6 +58,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
   - This is the best place to find smart contracts that are up-to-date with the latest changes
 - [Aztec Standards](https://github.com/defi-wonderland/aztec-standards)
   - Smart contracts, built and maintained by the Wonderland team, with both e2e tests in JavaScript and unit tests written in Aztec.nr
+- [Private OTC Desk](https://github.com/aztec-pioneers/aztec-otc-desk/tree/main)
+  - Great example of a more complex app with Aztec smart contacts including multiple wallets (PXEs), tests, Aztec.nr, Aztec.js as more 
 
 ### Dev Tools
 
