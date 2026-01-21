@@ -106,7 +106,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Obsidion](https://obsidion.xyz/) - Mobile wallet
 - [Azguard](https://azguardwallet.io/) - Browser wallet
-- [Nemi](https://nemi.fi) - swap tokens with privacy
+- [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
+- [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
 - [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
