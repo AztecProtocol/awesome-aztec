@@ -60,6 +60,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
   - Smart contracts, built and maintained by the Wonderland team, with both e2e tests in JavaScript and unit tests written in Aztec.nr
 - [Private OTC Desk](https://github.com/aztec-pioneers/aztec-otc-desk/tree/main)
   - Great example of a more complex app with Aztec smart contacts including multiple wallets (PXEs), tests, Aztec.nr, Aztec.js as more 
+- [GregoSwap demo app](https://gregoswap.anothercoffeefor.me/)
+  - Wallet SDK demo app, [code here](https://github.com/AztecProtocol/gregoswap)
 
 ### Dev Tools
 
@@ -68,6 +70,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
 - [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
 - [Remix IDE Plugin for Aztec](https://github.com/hsy822/aztec-remix-plugin) - a plugin for Remix IDE to compile, deploy, and interact with Aztec smart contracts.
+- [Demo wallet](https://github.com/AztecProtocol/demo-wallet) -  An Aztec wallet application (designed for devs) that allows dApps to interact with user accounts through a secure interface
 
 ### Boilerplates
 
