@@ -74,6 +74,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
 - [Remix IDE Plugin for Aztec](https://github.com/hsy822/aztec-remix-plugin) - a plugin for Remix IDE to compile, deploy, and interact with Aztec smart contracts.
 - [Demo wallet](https://github.com/AztecProtocol/demo-wallet) -  An Aztec wallet application (designed for devs) that allows dApps to interact with user accounts through a secure interface
+- [Aztec MCP Server](https://github.com/critesjosh/aztec-mcp-server) - An MCP (Model Context Protocol) server that provides local access to Aztec documentation, examples, and source code through cloned repositories.
+- [Aztec Claude Code Plugin](https://github.com/critesjosh/aztec-claude-plugin) - A Claude Code plugin for Aztec smart contract and application development. 
 
 ### Boilerplates
 
