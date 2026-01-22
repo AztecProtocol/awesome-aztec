@@ -13,6 +13,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Website](https://aztec.network/)
 - [Docs](https://docs.aztec.network/)
+- [Aztec Starter](https://github.com/AztecProtocol/aztec-starter/tree/next/)
 - [Forum](https://discourse.aztec.network/)
 - [Github](https://github.com/AztecProtocol)
 - [Awesome Noir](https://github.com/noir-lang/awesome-noir/tree/main#benchmarks)
@@ -62,6 +63,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
   - Great example of a more complex app with Aztec smart contacts including multiple wallets (PXEs), tests, Aztec.nr, Aztec.js as more 
 - [GregoSwap demo app](https://gregoswap.anothercoffeefor.me/)
   - Wallet SDK demo app, [code here](https://github.com/AztecProtocol/gregoswap)
+- [Helpful scripts](https://github.com/AztecProtocol/aztec-starter/tree/next/scripts)
+  - How to do common actions like deploying & interacting with contracts
 
 ### Dev Tools
 
