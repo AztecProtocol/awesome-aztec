@@ -122,6 +122,13 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
 
+### Explorers
+
+- [Stake Aztec](https://stake.aztec.network/) - Official Staking Dashboard by Aztec Labs
+- [Validator Info](https://validatorinfo.com/networks/aztec/overview) - Blockchain Explorer and Dashboard for Aztec
+- [Dashtec](https://dashtec.xyz/) - Aztec Sequencer Dashboard
+- [Aztec Scan](https://aztecscan.xyz/) - Aztec-focused Explorer
+
 ## Reference
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
