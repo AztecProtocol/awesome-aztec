@@ -122,12 +122,27 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
 
-### Explorers
+### Explorers - Node focussed
 
-- [Stake Aztec](https://stake.aztec.network/) - Official Staking Dashboard by Aztec Labs
+- [Aztec Staking Dashboard](https://stake.aztec.network/) - Official Staking Dashboard by Aztec Labs
 - [Validator Info](https://validatorinfo.com/networks/aztec/overview) - Blockchain Explorer and Dashboard for Aztec
 - [Dashtec](https://dashtec.xyz/) - Aztec Sequencer Dashboard
-- [Aztec Scan](https://aztecscan.xyz/) - Aztec-focused Explorer
+- [Aztec Vision](https://aztec.vision/) - Aztec Sequencer Explorer
+- [Aztec Nodes](https://aztecnodes.xyz/) - Aztec Node Map, showing geographical node distribution
+
+### Explorers - Block focussed
+
+- [Aztec Scan](https://aztecscan.xyz/) - Aztec Block Explorer
+- [Clustec](https://clustec.xyz/) - Aztec Block & Network Health explorer
+- [Aztec Explorer](https://aztecexplorer.xyz/) - Aztec Block Explroer
+
+### RPC - Mainnet
+
+- [drpc](https://drpc.org/chainlist/aztec-mainnet-rpc) - Aztec mainnet RPC
+
+### RPC - Testnet
+
+- [drpc](https://drpc.org/chainlist/aztec-testnet-rpc) - Aztec testnet RPC
 
 ## Reference
 
