@@ -140,7 +140,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Aztec Kit Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) - Bridge UI
 - [Aztec Kit FPC](https://fpc.aztec-kit.anothercoffeefor.me/) - Fee-Paying Contract demo
 - [Olla Finance Demo](https://demo.olla.finance/) - Privacy-focused DeFi demo
-- [aztecnodes.xyz](https://aztecnodes.xyz/) - Node operator resource
 
 ### Design Docs & Specs
 
@@ -150,17 +149,37 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Selective Disclosure PoC](https://github.com/aztec-pioneers/aztec-atvs-proof) by Jack — plus an [exploratory write-up](https://hackmd.io/bVRw0Rc4TNOFy2Kfcppe3A#Diagrammed-Volume-Proof)
 - [Private Stablecoin working doc](https://docs.google.com/document/d/1DNUlXpITGxV2KZQ6oaQC7AKjc5S_-AAuvpExT43vzgc/edit?tab=t.0#heading=h.4coko9c40tac)
 
-### Explorers & Dashboards
+### Explorers - Node focussed
 
-- [Stake Aztec](https://stake.aztec.network/) - Official Staking Dashboard by Aztec Labs
+- [Aztec Staking Dashboard](https://stake.aztec.network/) - Official Staking Dashboard by Aztec Labs
 - [Validator Info](https://validatorinfo.com/networks/aztec/overview) - Blockchain Explorer and Dashboard for Aztec
 - [Dashtec](https://dashtec.xyz/) - Aztec Sequencer Dashboard
-- [Aztec Scan](https://aztecscan.xyz/) - Aztec-focused Explorer
+- [Aztec Vision](https://aztec.vision/) - Aztec Sequencer Explorer
+- [Aztec Nodes](https://aztecnodes.xyz/) - Aztec Node Map, showing geographical node distribution
+
+### Explorers - Block focussed
+
+- [Aztec Scan](https://aztecscan.xyz/) - Aztec Block Explorer
+- [Clustec](https://clustec.xyz/) - Aztec Block & Network Health explorer
+- [Aztec Explorer](https://aztecexplorer.xyz/) - Aztec Block Explroer
+
+### Dashboards
+
 - [Latency Explorer](https://aztecprotocol.github.io/benchmark-page-data/misc/tx-latency-explorer/) - Transaction latency benchmarks
 - [Aztec Governance Dashboard](https://aztecgov.nethermind.io/) - Nethermind's governance dashboard
 - [Dashtec Governance](https://dashtec.xyz/governance) - Governance view on Dashtec
+
+### Faucet
+
 - [Aztec Faucet](https://aztec-faucet.nethermind.io/) - Testnet faucet by Nethermind
-- [Aztec Mainnet RPC](https://aztec-mainnet.drpc.org) - DRPC mainnet endpoint
+
+### RPC - Mainnet
+
+- [drpc](https://drpc.org/chainlist/aztec-mainnet-rpc) - Aztec mainnet RPC
+
+### RPC - Testnet
+
+- [drpc](https://drpc.org/chainlist/aztec-testnet-rpc) - Aztec testnet RPC
 
 ## Reference
 
