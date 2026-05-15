@@ -95,10 +95,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 ### Libraries
 
 - [Aztec.nr docs](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) and [source code](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr)
-  - Includes:
-    - [`aztec`](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr/aztec) (core) - the core of the framework
-    - [`easy-private-state`](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr/easy-private-state) - for easily creating private state
-    - [`value-note`](https://github.com/AztecProtocol/aztec-packages/tree/master/noir-projects/aztec-nr/value-note) - for storing arbitrary values
 - [Noir libraries](https://github.com/noir-lang/awesome-noir/blob/main/README.md#libraries) - can be used in Aztec contracts
 - [Aztec Storage proofs](https://github.com/nemi-fi/aztec_storage_proofs) - Prove Aztec note inclusion in plain Noir. Generate verifiable proofs for verification in JS or Solidity.
 
@@ -136,9 +132,9 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Galactica zkKYC](https://github.com/Galactica-corp/aztec-zkkyc) - zkKYC implementation on Aztec
 - [Galactica threshold decryption](https://github.com/Galactica-corp/aztec-v4-issue-sample) - Threshold decryption sample in Noir and TypeScript ([demo recording](https://drive.google.com/file/d/1NxH8hjfRrqeUsI-o7mUti-HidyF_kGSV/view))
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
-- [Aztec Kit Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
-- [Aztec Kit Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) - Bridge UI
-- [Aztec Kit FPC](https://fpc.aztec-kit.anothercoffeefor.me/) - Fee-Paying Contract demo
+- [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
+- [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) - Bridge UI
+- [Aztec FPC](https://fpc.aztec-kit.anothercoffeefor.me/) - Fee-Paying Contract demo
 - [Olla Finance Demo](https://demo.olla.finance/) - Privacy-focused DeFi demo
 
 ### Design Docs & Specs
