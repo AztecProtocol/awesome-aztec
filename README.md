@@ -139,7 +139,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 ### Design Docs & Specs
 
-- [BlackJack Spec](https://daffy-newsboy-a51.notion.site/BlackJack-Spec-14e2d36e9dba8018bd59e030178474cd)
 - [Obsidion Portal Design Doc](https://www.notion.so/aztecnetwork/Obsidion-Portal-Design-Doc-313a1f6b0e35807f974cfaf25a8877d3)
 - Wonderland Escrows — [Design](https://www.notion.so/defi-wonderland/Escrows-18c9a4c092c780c8a2c5d6a2ad6040a4) and [Background Research](https://www.notion.so/defi-wonderland/Background-Research-Escrow-2479a4c092c7805dba8fc7180352be34)
 - [Selective Disclosure PoC](https://github.com/aztec-pioneers/aztec-atvs-proof) by Jack — plus an [exploratory write-up](https://hackmd.io/bVRw0Rc4TNOFy2Kfcppe3A#Diagrammed-Volume-Proof)
