@@ -133,9 +133,9 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Galactica threshold decryption](https://github.com/Galactica-corp/aztec-v4-issue-sample) - Threshold decryption sample in Noir and TypeScript ([demo recording](https://drive.google.com/file/d/1NxH8hjfRrqeUsI-o7mUti-HidyF_kGSV/view))
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
 - [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
-- [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) - Bridge UI
-- [Aztec FPC](https://fpc.aztec-kit.anothercoffeefor.me/) - Fee-Paying Contract demo
-- [Olla Finance Demo](https://demo.olla.finance/) - Privacy-focused DeFi demo
+- [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)]- Bridge UI
+- [Aztec FPC](https://fpc.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] - Fee-Paying Contract demo
+- [Olla Finance Demo](https://demo.olla.finance/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] - Privacy-focused DeFi demo
 
 ### Design Docs & Specs
 
