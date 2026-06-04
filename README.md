@@ -138,6 +138,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)]- Bridge UI
 - [Aztec FPC](https://fpc.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] - Fee-Paying Contract demo
 - [Olla Finance Demo](https://demo.olla.finance/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] - Privacy-focused DeFi demo
+- [Aztec Accelerator](https://github.com/alejoamiras/aztec-accelerator) -Native proving accelerator for Aztec transactions. Bypasses browser WASM throttling by running the bb proving binary natively on your machine.
 
 ### Design Docs & Specs
 
