@@ -123,7 +123,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 ### Projects
 
-- [Obsidion](https://obsidion.xyz/) - Mobile wallet
 - [Azguard](https://azguardwallet.io/) - Browser wallet
 - [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
 - [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
