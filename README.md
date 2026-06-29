@@ -51,7 +51,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Learn Aztec](https://github.com/taurushq-io/private-CMTAT-aztec/blob/master/LEARN-AZTEC.md) by Taurus
 - [How to use Aztec Packages and Aztec Docs](https://gist.github.com/rajeshb62/60a7018d97124b5644d84c4f3ea5cc18)
 - [Play the Glass Bridge Game (ZK Tutorial)](https://zkdev.net/docs/tutorial/glass-bridge)
-- [Aztec Personal AI Tutor](https://github.com/Atunde-SS/Aztec-AI.git)
+- [Aztec Personal AI Tutor](https://github.com/0xdfinity/Aztec-AI)
 
 ## Coding
 
@@ -128,10 +128,9 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
 - [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
 - [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
-- [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
-- [Dark Forest (Aztec port)](https://github.com/dfarchon/dfpunk-aztec/tree/cherry/temp) - Aztec port of the Dark Forest game
+- [Aztec NFT Playground](https://github.com/0xandee/aztec-nft-playground) - Privacy-preserving NFT trading protocol on Aztec with encrypted ownership (formerly Tezac)
+- [Dark Forest (Aztec port)](https://github.com/dfarchon/dark-forest-aztec) - Aztec port of the Dark Forest game
 - [Galactica zkKYC](https://github.com/Galactica-corp/aztec-zkkyc) - zkKYC implementation on Aztec
-- [Galactica threshold decryption](https://github.com/Galactica-corp/aztec-v4-issue-sample) - Threshold decryption sample in Noir and TypeScript ([demo recording](https://drive.google.com/file/d/1NxH8hjfRrqeUsI-o7mUti-HidyF_kGSV/view))
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
 - [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
 - [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)]- Bridge UI
