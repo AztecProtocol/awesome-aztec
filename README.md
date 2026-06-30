@@ -51,7 +51,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Learn Aztec](https://github.com/taurushq-io/private-CMTAT-aztec/blob/master/LEARN-AZTEC.md) by Taurus
 - [How to use Aztec Packages and Aztec Docs](https://gist.github.com/rajeshb62/60a7018d97124b5644d84c4f3ea5cc18)
 - [Play the Glass Bridge Game (ZK Tutorial)](https://zkdev.net/docs/tutorial/glass-bridge)
-- [Aztec Personal AI Tutor](https://github.com/Atunde-SS/Aztec-AI.git)
 
 ## Coding
 
@@ -77,9 +76,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
 - [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
-- [Remix IDE Plugin for Aztec](https://github.com/hsy822/aztec-remix-plugin) - a plugin for Remix IDE to compile, deploy, and interact with Aztec smart contracts.
 - [Demo wallet](https://github.com/AztecProtocol/demo-wallet) -  An Aztec wallet application (designed for devs) that allows dApps to interact with user accounts through a secure interface
-- [Aztec MCP Server](https://github.com/critesjosh/aztec-mcp-server) - An MCP (Model Context Protocol) server that provides local access to Aztec documentation, examples, and source code through cloned repositories.
+- [Aztec MCP Server](https://github.com/AztecProtocol/mcp-server) - An MCP (Model Context Protocol) server that provides local access to Aztec documentation, examples, and source code through cloned repositories.
 - [Aztec Claude Code Plugin](https://github.com/critesjosh/aztec-claude-plugin) - A Claude Code plugin for Aztec smart contract and application development. 
 - [Aztec Lint](https://github.com/NethermindEth/aztec-lint/blob/main/docs/lints-reference.md) - Nethermind's linter for Aztec contracts
 - [Lampe](https://github.com/reilabs/lampe/tree/main) - Lean-based formal verification framework for Noir programs
@@ -88,7 +86,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec web starter](https://github.com/AztecProtocol/aztec-web-starter) - an example web app that demonstrates how to interact with an Aztec contract using the Aztec JS SDK
-- [Next.js Starter](https://github.com/raven-house/aztec-nextjs-starter) - Next.js starter template with Aztec Network integration
 - [Defi Wonderland's Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) - similar to Aztec starter, but includes benchmarking on PRs
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
   - [Install local network](https://docs.aztec.network/developers/getting_started_on_local_network)
@@ -126,12 +123,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Azguard](https://azguardwallet.io/) - Browser wallet
 - [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
 - [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
-- [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
-- [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
-- [Tezac](https://github.com/0xandee/tezac/) - Privacy-preserving NFT marketplace
-- [Dark Forest (Aztec port)](https://github.com/dfarchon/dfpunk-aztec/tree/cherry/temp) - Aztec port of the Dark Forest game
+- [Dark Forest (Aztec port)](https://github.com/dfarchon/dark-forest-aztec) - Aztec port of the Dark Forest game
 - [Galactica zkKYC](https://github.com/Galactica-corp/aztec-zkkyc) - zkKYC implementation on Aztec
-- [Galactica threshold decryption](https://github.com/Galactica-corp/aztec-v4-issue-sample) - Threshold decryption sample in Noir and TypeScript ([demo recording](https://drive.google.com/file/d/1NxH8hjfRrqeUsI-o7mUti-HidyF_kGSV/view))
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
 - [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
 - [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)]- Bridge UI
