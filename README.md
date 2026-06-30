@@ -76,7 +76,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
 - [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
-- [Remix IDE Plugin for Aztec](https://github.com/hsy822/aztec-remix-plugin) - a plugin for Remix IDE to compile, deploy, and interact with Aztec smart contracts.
 - [Demo wallet](https://github.com/AztecProtocol/demo-wallet) -  An Aztec wallet application (designed for devs) that allows dApps to interact with user accounts through a secure interface
 - [Aztec MCP Server](https://github.com/AztecProtocol/mcp-server) - An MCP (Model Context Protocol) server that provides local access to Aztec documentation, examples, and source code through cloned repositories.
 - [Aztec Claude Code Plugin](https://github.com/critesjosh/aztec-claude-plugin) - A Claude Code plugin for Aztec smart contract and application development. 
@@ -87,7 +86,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec web starter](https://github.com/AztecProtocol/aztec-web-starter) - an example web app that demonstrates how to interact with an Aztec contract using the Aztec JS SDK
-- [Next.js Starter](https://github.com/raven-house/aztec-nextjs-starter) - Next.js starter template with Aztec Network integration
 - [Defi Wonderland's Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) - similar to Aztec starter, but includes benchmarking on PRs
 - [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
   - [Install local network](https://docs.aztec.network/developers/getting_started_on_local_network)
