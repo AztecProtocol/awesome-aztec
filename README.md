@@ -125,8 +125,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Azguard](https://azguardwallet.io/) - Browser wallet
 - [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
 - [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
-- [(Experimental) NFT Standards](https://github.com/resurgencelabs/nft_standards)
-- [Private subscription service](https://github.com/resurgencelabs/ikigai_backend)
 - [Dark Forest (Aztec port)](https://github.com/dfarchon/dark-forest-aztec) - Aztec port of the Dark Forest game
 - [Galactica zkKYC](https://github.com/Galactica-corp/aztec-zkkyc) - zkKYC implementation on Aztec
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
