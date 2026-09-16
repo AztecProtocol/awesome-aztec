@@ -16,7 +16,7 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Website](https://aztec.network/)
 - [Docs](https://docs.aztec.network/)
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter/tree/next/)
-- [Forum](https://discourse.aztec.network/)
+- [Forum](https://forum.aztec.network/)
 - [Github](https://github.com/AztecProtocol)
 - [aztec-packages](https://github.com/AztecProtocol/aztec-packages) - The Aztec monorepo containing the protocol implementation, Aztec.nr framework, and reference contracts
 - [AZIPs / Governance](https://github.com/AztecProtocol/governance) - Aztec Improvement Proposals and governance discussions
@@ -61,8 +61,8 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Smart Contract Examples](https://github.com/AztecProtocol/aztec-packages/tree/next/noir-projects/noir-contracts)
   - Built and maintained by the Aztec engineering team
   - This is the best place to find smart contracts that are up-to-date with the latest changes
-- [Aztec Standards](https://github.com/defi-wonderland/aztec-standards)
-  - Smart contracts, built and maintained by the Wonderland team, with both e2e tests in JavaScript and unit tests written in Aztec.nr
+- [Aztec Standards](https://github.com/defi-wonderland/aztec-standards) (archived)
+  - Smart contracts built by the Wonderland team, with both e2e tests in JavaScript and unit tests written in Aztec.nr. The repository is archived and no longer maintained.
 - [Private OTC Desk](https://github.com/aztec-pioneers/aztec-otc-desk/tree/main)
   - Great example of a more complex app with Aztec smart contracts including multiple wallets (PXEs), tests, Aztec.nr, Aztec.js as more 
 - [GregoSwap demo app](https://gregoswap.anothercoffeefor.me/)
@@ -75,7 +75,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Aztec version of the Noir programming language](https://docs.aztec.network/guides/smart_contracts/writing_contracts/initializers) - for writing smart contracts on Aztec
 - [Noir VS Code extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlighting, snippets and more for Noir.
 - [aztec.tools](https://aztec.tools) - collection of handy tools for Aztec development in the browser.
-- [Aztec Test Runner](https://github.com/marketplace/actions/aztec-test-runner) - a Github Action for running TXE tests in your CI
 - [Demo wallet](https://github.com/AztecProtocol/demo-wallet) -  An Aztec wallet application (designed for devs) that allows dApps to interact with user accounts through a secure interface
 - [Aztec MCP Server](https://github.com/AztecProtocol/mcp-server) - An MCP (Model Context Protocol) server that provides local access to Aztec documentation, examples, and source code through cloned repositories.
 - [Aztec Claude Code Plugin](https://github.com/critesjosh/aztec-claude-plugin) - A Claude Code plugin for Aztec smart contract and application development. 
@@ -86,10 +85,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Aztec Starter](https://github.com/AztecProtocol/aztec-starter) - A starting point for writing Aztec contracts and tests (and learning!)
 - [Aztec web starter](https://github.com/AztecProtocol/aztec-web-starter) - an example web app that demonstrates how to interact with an Aztec contract using the Aztec JS SDK
-- [Defi Wonderland's Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) - similar to Aztec starter, but includes benchmarking on PRs
-- [Aztec Boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/boxes) - A collection of boilerplates for building with Aztec
-  - [Install local network](https://docs.aztec.network/developers/getting_started_on_local_network)
-  - run `aztec-cli unbox [box_name] [new_project_name]`
 
 ### Libraries
 
@@ -107,11 +102,10 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 ### Common Patterns
 
-- [Defi Wonderland Aztec standards](https://github.com/defi-wonderland/aztec-standards) - Aztec Standards is a compilation of reusable, standardized contracts for the Aztec Network.
+- [Defi Wonderland Aztec standards](https://github.com/defi-wonderland/aztec-standards) (archived) - Aztec Standards is a compilation of reusable, standardized contracts for the Aztec Network. The repository is archived and no longer maintained.
   - [Token standard](https://github.com/defi-wonderland/aztec-standards?tab=readme-ov-file#token-contract) - The Token contract implements an ERC-20-like token with Aztec-specific privacy extensions.
 - [Calling public function from private functions](https://docs.aztec.network/developers/docs/aztec-nr/framework-description/how_to_call_contracts#private-to-public-calls) - private functions cannot directly manipulate public state, they can by staging a call to a public function that updates public state.
   - You can also use this pattern to "pass" public inputs into private state by passing the input as an argument to a private function, staging a public function call that validates the input against the current public state.
-- [Immutables via salt](https://aztecprotocol.slack.com/archives/C0AFUDH357F/p1772548531737649) - Wonderland's pattern for emulating immutable values using the contract salt
 - [Private state & key management](https://gist.github.com/porco-rosso-j/d4ca9f3331206b5ca3b92aa79bc256bc) - Porco (Obsidion) write-up on private state variables and key management
 
 ### FPC
@@ -122,9 +116,16 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 - [Azguard](https://azguardwallet.io/) - Browser wallet
 - [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
-- [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFt private ownership verification.
+- [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFT private ownership verification.
 - [Dark Forest (Aztec port)](https://github.com/dfarchon/dark-forest-aztec) - Aztec port of the Dark Forest game
 - [Galactica zkKYC](https://github.com/Galactica-corp/aztec-zkkyc) - zkKYC implementation on Aztec
+- [Galactica aztec-x402](https://github.com/Galactica-corp/aztec-x402) - x402 payment protocol for Aztec private tokens: HTTP-native micropayments with private transfers
+- [Nyx](https://app.nyx.money) - Private transfers and private yield on Aave from an Ethereum wallet
+- [Human Tech](https://human.tech) - Private identity and proof of personhood on Aztec
+- [Train](https://www.train.tech/) - Aztec-to-L2 bridge that brings privacy to apps on Ethereum L2s
+- [Olla Finance](https://github.com/ollafinance/core) - Liquid staking protocol for Aztec (stAztec)
+- [Warptoad](https://warptoad.org/) - Cross-chain private transfers with a shared anonymity set
+- [Primus Labs](https://primuslabs.xyz/) - zkTLS data verification on Aztec [[demo](https://github.com/primus-labs/aztec-demo)]
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
 - [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) - Swap UI
 - [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)]- Bridge UI
@@ -137,7 +138,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 - [Obsidion Portal Design Doc](https://www.notion.so/aztecnetwork/Obsidion-Portal-Design-Doc-313a1f6b0e35807f974cfaf25a8877d3)
 - Wonderland Escrows — [Design](https://www.notion.so/defi-wonderland/Escrows-18c9a4c092c780c8a2c5d6a2ad6040a4) and [Background Research](https://www.notion.so/defi-wonderland/Background-Research-Escrow-2479a4c092c7805dba8fc7180352be34)
 - [Selective Disclosure PoC](https://github.com/aztec-pioneers/aztec-atvs-proof) by Jack — plus an [exploratory write-up](https://hackmd.io/bVRw0Rc4TNOFy2Kfcppe3A#Diagrammed-Volume-Proof)
-- [Private Stablecoin working doc](https://docs.google.com/document/d/1DNUlXpITGxV2KZQ6oaQC7AKjc5S_-AAuvpExT43vzgc/edit?tab=t.0#heading=h.4coko9c40tac)
 
 ### Explorers - Node focussed
 
@@ -155,7 +155,6 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 ### Dashboards
 
-- [Latency Explorer](https://aztecprotocol.github.io/benchmark-page-data/misc/tx-latency-explorer/) - Transaction latency benchmarks
 - [Aztec Governance Dashboard](https://aztecgov.nethermind.io/) - Nethermind's governance dashboard
 - [Dashtec Governance](https://dashtec.xyz/governance) - Governance view on Dashtec
 
@@ -173,5 +172,5 @@ A curated list of resources for learning and programming the Aztec blockchain.
 
 ## Reference
 
-- [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
-- [Current Limitations](https://docs.aztec.network/developers/reference/considerations/limitations)
+- [TypeScript API Reference](https://docs.aztec.network/developers/docs/aztec-js/typescript_api_reference) - aztec.js, accounts, PXE, and core libraries
+- [Current Limitations](https://docs.aztec.network/developers/docs/resources/considerations/limitations)
