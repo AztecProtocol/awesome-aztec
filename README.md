@@ -13,14 +13,22 @@ A curated list of resources for learning and programming the Aztec blockchain. C
 
 ## Official Resources
 
+- [Website](https://aztec.network/)
 - [Docs](https://docs.aztec.network/)
 - [llms.txt](https://docs.aztec.network/llms.txt) - docs index for AI agents
 - [Aztec apps](https://aztec.network/apps) - end-user apps on Aztec
+- [Forum](https://forum.aztec.network/)
+- [GitHub](https://github.com/AztecProtocol)
+- [aztec-packages](https://github.com/AztecProtocol/aztec-packages) - Barretenberg, the Noir compiler, the L1 contracts, the protocol circuits and the docs
+- [aztec-node](https://github.com/aztec-labs-eng/aztec-node) - The node, aztec.js and the wallet SDK, Aztec.nr and the example contracts
+- [AZIPs / Governance](https://github.com/AztecProtocol/governance) - Aztec Improvement Proposals and governance discussions
+- [Awesome Noir](https://github.com/noir-lang/awesome-noir)
 
 ## Learning
 
 ### Talks and workshops
 
+- [How to Build Private Smart Contracts on Aztec for Solidity Developers](https://www.youtube.com/watch?v=cQIPG_J1W9g) - Aztec Network's smart contract development course
 - [Privacy Preserving Smart Contract Architectures](https://www.youtube.com/watch?v=09nDPDN1ORA) - Zac Williamson, the co-founder and CEO of Aztec Labs, explores how to enable encrypted programmable blockchain networks with strong privacy guarantees. 
 - [Private-Public Composability](https://www.youtube.com/watch?v=7Oc0tjdbi70&t=17723s)
 - [How to build a SNARK](https://www.youtube.com/watch?v=j6wlamEPKlE) - Zac Williamson
@@ -62,7 +70,7 @@ A curated list of resources for learning and programming the Aztec blockchain. C
 
 ### Projects
 
-- [Azguard](https://azguardwallet.io/) - Browser wallet
+- [Nulo](https://nulo.sh) [[source](https://github.com/nulo-sh/nulo)] `v6` - Browser wallet
 - [Nemi](https://nemi.fi) - AMM: swap tokens with privacy
 - [RavenHouse](https://www.ravenhouse.xyz/) - NFT Marketplace and NFT private ownership verification.
 - [Dark Forest (Aztec port)](https://github.com/dfarchon/dark-forest-aztec) `v6` - Aztec port of the Dark Forest game
@@ -71,14 +79,14 @@ A curated list of resources for learning and programming the Aztec blockchain. C
 - [Nyx](https://app.nyx.money) - Private transfers and private yield on Aave from an Ethereum wallet
 - [Human Tech](https://human.tech) - Private identity and proof of personhood on Aztec
 - [Train](https://www.train.tech/) - Aztec-to-L2 bridge that brings privacy to apps on Ethereum L2s
-- [Olla Finance](https://github.com/ollafinance/core) `v5` - Liquid staking protocol for Aztec (stAztec)
+- [Olla Finance](https://olla.finance/) [[source](https://github.com/ollafinance/core)] `v5` - Liquid staking protocol for Aztec (stAztec)
 - [Warptoad](https://warptoad.org/) - Cross-chain private transfers with a shared anonymity set
 - [Primus Labs](https://primuslabs.xyz/) - zkTLS data verification on Aztec
 - [Play](https://play.aztec-labs.com/) - Aztec Labs playground
 - [Aztec Swap](https://swap.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] `v6` - Swap UI and Wallet SDK demo: private token AMM with a proof-of-password faucet.
 - [Aztec Bridge](https://bridge.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] `v6` - Bridge UI
 - [Aztec FPC](https://fpc.aztec-kit.anothercoffeefor.me/) [[source](https://github.com/aztec-labs-eng/aztec-kit)] `v6` - Fee-Paying Contract demo
-- [Olla Finance Demo](https://demo.olla.finance/) - Privacy-focused DeFi demo
+- [Unleashed](https://testnet.app.unleashed.systems/) [[source](https://github.com/alejoamiras/unleashed)] `v6` - Testnet bridge for any ERC-20 between Ethereum and Aztec, with a token faucet
 
 ### Design Docs & Specs
 
