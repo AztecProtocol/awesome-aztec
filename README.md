@@ -99,6 +99,7 @@ A curated list of resources for learning and programming the Aztec blockchain. C
 - [Dashtec](https://dashtec.xyz/) [[source](https://github.com/AztecProtocol/dashtec)] - Aztec Sequencer Dashboard
 - [Aztec Vision](https://aztec.vision/) - Aztec Sequencer Explorer
 - [Aztec Nodes](https://aztecnodes.xyz/) - Aztec Node Map, showing geographical node distribution
+- [BitBasic](https://bitbasic.com/aztec) - Aztec sequencer, provider and prover dashboard with attestation history, governance and alerts
 
 ### Explorers - Block focussed
 
